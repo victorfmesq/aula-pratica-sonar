@@ -1,0 +1,7 @@
+Sobre: Programa que simula o funcionamento de um alarme simples.
+
+Bibliotecas usadas: datetime, winsound
+
+Guia das bibliotecas:
+datetime -> https://docs.python.org/pt-br/3/library/datetime.html
+winsound -> https://docs.python.org/pt-br/3.7/library/winsound.html
